@@ -28,10 +28,10 @@ predicts potential outcomes of lawsuits by analyzing previous cases and generati
 
 ## <span style="color:yellow">technical stack</span>
 
-**Frontend** (React.js) <br>
+**Frontend** (Next.js) <br>
 interactive UI for managing legal cases and visualizing document analysis results.
 
-**Backend** (Node.js) <br>
+**Backend** (FastAPI, Docker) <br>
 handling document uploads, processing, and API integrations.
 
 **Database** (MongoDB, NoSQL database) <br>
