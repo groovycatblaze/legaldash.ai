@@ -14,10 +14,13 @@ Additionally, it offers real-time tracking and insights into ongoing lawsuits, h
 
 ## <span style="color:yellow">features</span>
 
-- **Legal document summarization**: summarizes lengthy legal documents using Gen AI, extracting key points and relevant information.
-- **Automated clause detection**: detects important clauses, flags high-risk conditions, and identifies inconsistencies within contracts.
-- **Real-time lawsuit management**: tracks multiple legal cases in real-time, allowing users to visualize timelines, progress, and risks.
-- **Contextual insights deneration**: predicts potential outcomes of lawsuits by analyzing previous cases and generating strategic insights.
+**- Legal document summarization**: summarizes lengthy legal documents using Gen AI, extracting key points and relevant information.
+
+**- Automated clause detection**: detects important clauses, flags high-risk conditions, and identifies inconsistencies within contracts.
+
+**- Real-time lawsuit management**: tracks multiple legal cases in real-time, allowing users to visualize timelines, progress, and risks.
+
+**- Contextual insights deneration**: predicts potential outcomes of lawsuits by analyzing previous cases and generating strategic insights.
 
 ## <span style="color:yellow">technical stack</span>
 
