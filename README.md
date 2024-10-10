@@ -28,19 +28,19 @@ predicts potential outcomes of lawsuits by analyzing previous cases and generati
 
 ## <span style="color:yellow">technical stack</span>
 
-**Frontend** React.js<br>
+**Frontend** (React.js) <br>
 interactive UI for managing legal cases and visualizing document analysis results.
 
-**Backend** Node.js<br>
+**Backend** (Node.js) <br>
 handling document uploads, processing, and API integrations.
 
-**Database** MongoDB, NoSQL database<br>
+**Database** (MongoDB, NoSQL database) <br>
 for flexible storage of legal documents, lawsuit details, and user data.
 
-**Machine Learning** Python, TensorFlow <br>
+**Machine Learning** (Python, TensorFlow) <br>
 for Gen AI models performing NLP tasks like summarization, clause extraction, and risk assessment.
 
-**AI Models** OpenAI GPT API <br>
+**AI Models** (OpenAI GPT API) <br>
 for advanced natural language generation, simplifying legal language, and generating insights.
 
 ## <span style="color:yellow">areas</span>
